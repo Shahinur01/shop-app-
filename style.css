@@ -1,0 +1,30 @@
+img {
+  height: 50px;
+  width: 50px;
+  border-radius: 5%;
+  vertical-align: middle;
+}
+.shop-data tr {
+  vertical-align: middle;
+  color: purple;
+}
+.shopApp {
+  text-transform: uppercase;
+  background-color: #87805e;
+  color: #fff;
+  border-radius: 5%;
+}
+.single_product {
+  text-align: center;
+}
+i {
+  pointer-events: none;
+}
+.single_product img {
+  width: 300px;
+  height: 200px;
+  border: 10px solid #fff;
+  border-radius: 50%;
+  cursor: pointer;
+  object-fit: cover;
+}
